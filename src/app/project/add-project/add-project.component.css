@@ -1,0 +1,20 @@
+.error {
+    color: red !important;
+    font-weight: 400;
+}
+
+.btn-primary {
+    background-color: dodgerblue;
+}
+
+.btn-info {
+    background-color: seagreen;
+}
+
+.btn-secondary {
+    background-color: slategray;
+}
+
+.form-control {
+    background-color: aliceblue;
+}

@@ -1,0 +1,23 @@
+.space-between {
+    margin: 10px;
+}
+
+.btn-primary {
+    background-color: dodgerblue;
+}
+
+.btn-info {
+    background-color: seagreen;
+}
+
+.btn-secondary {
+    background-color: slategray;
+}
+
+.form-control {
+    background-color: aliceblue;
+}
+
+.list-group-item-secondary {
+	background-color: aliceblue;
+}

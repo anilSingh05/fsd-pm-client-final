@@ -1,0 +1,27 @@
+hr.style1 {
+	border-top: 2px solid #8b8b8c;
+}
+hr.style2 {
+	background-color: #fff;
+	border-top: 2px dotted #8b8b8c;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.btn-color {
+ 
+    background-color: #DDDDDD
+}
+
+.btn-primary {
+    background-color: dodgerblue;
+}
+
+.btn-info {
+    background-color: seagreen;
+}
+
+.btn-secondary {
+    background-color: slategray;
+}

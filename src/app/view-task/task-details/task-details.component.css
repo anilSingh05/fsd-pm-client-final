@@ -1,0 +1,32 @@
+table{
+    border-collapse: separate;
+    border-spacing: 10px; 
+}
+
+table th, table td{
+    padding: 5px;
+}
+
+.btn-primary {
+    background-color: dodgerblue;
+}
+
+.btn-info {
+    background-color: seagreen;
+}
+
+.btn-secondary {
+    background-color: slategray;
+}
+
+.form-control {
+    background-color: aliceblue;
+}
+
+.list-group-item-secondary {
+	background-color: aliceblue;
+}
+
+.table-secondary {
+    background-color: aliceblue;
+}
