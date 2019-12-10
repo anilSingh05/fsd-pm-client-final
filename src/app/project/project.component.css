@@ -9,19 +9,21 @@ hr.style2 {
     float: none;
     margin: 0 auto;
 }
-.btn-color {
- 
-    background-color: #DDDDDD
-}
-
-.btn-primary {
-    background-color: dodgerblue;
-}
 
 .btn-info {
-    background-color: seagreen;
+	background-color: slategray;
+	border-color: slategray;
 }
 
 .btn-secondary {
     background-color: slategray;
+}
+
+.btn-primary {
+    background-color: slategrey;
+    border-color: slategrey;
+}
+
+.col-form-label{
+    font-weight: bold; 
 }

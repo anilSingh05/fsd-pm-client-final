@@ -21,18 +21,17 @@
 .btn-color {
     background-color: #DDDDDD
 }
-.btn-primary {
-    background-color: dodgerblue;
-}
 
 .btn-info {
-    background-color: seagreen;
+	background-color: slategray;
+	border-color: slategray;
 }
 
-.btn-secondary {
-    background-color: slategray;
+.btn-primary {
+    background-color: slategrey;
+    border-color: slategrey;
 }
 
-.list-group-item-secondary {
-	background-color: aliceblue;
+.col-form-label{
+    font-weight: bold; 
 }

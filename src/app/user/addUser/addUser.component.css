@@ -3,13 +3,23 @@
 }
 
 .btn-info {
-    background-color: seagreen;
+	background-color: slategray;
+	border-color: slategray;
 }
 
 .btn-secondary {
     background-color: slategray;
 }
 
-.form-control {
-    background-color: aliceblue;
+.btn-primary {
+    background-color: slategrey;
+    border-color: slategrey;
+}
+
+.col-form-label{
+    font-weight: bold; 
+}
+
+.label {
+    font-weight: bold;
 }

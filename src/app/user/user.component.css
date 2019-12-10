@@ -6,18 +6,16 @@ hr.style2 {
 	border-top: 2px dotted #8c8b8b;
 }
 
-.btn-primary {
-    background-color: dodgerblue;
-}
-
 .btn-info {
-    background-color: seagreen;
+	background-color: slategray;
+	border-color: slategray;
 }
 
 .btn-secondary {
     background-color: slategray;
 }
 
-.form-control {
-    background-color: aliceblue;
+.btn-primary {
+    background-color: slategrey;
+    border-color: slategrey;
 }
